@@ -19,4 +19,3 @@ Jako inspiraci pro základní úpravy si můžeš projít stránku Webdesign in 
 https://jgthms.com/web-design-in-4-minutes/
 
 Případně se inspiruj stránkou "Adéla na cestách" z úvodního HTML video kurzu, ale ne že do ní jen dopíšeš vlastní text :) To samozřejmě poznáme. Stránku určitě nějak změn a přidej i nějakou vlastní kreativitu.
-![image](https://user-images.githubusercontent.com/39790985/193800497-b6b70be9-0264-4f4a-8727-ba6fcc55832a.png)
