@@ -1,3 +1,120 @@
+/* color scheme Pebble: Hex: 433E49 / 928490 / DBC1AD / F3E8EB */
 /* nejsme vcerejsi, pouzivame moderni a intuitivni box model */
-html { box-sizing: border-box; }
+html { 
+  box-sizing: border-box; 
+}
 *, ::after, ::before { box-sizing: inherit; }
+
+body {
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #555;
+  margin: 0 50px 0 50px;
+  background-color: #F3E8EB;
+  }
+
+h1 {
+  color: #433E49;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  letter-spacing: 3px;
+  text-align: center;
+  margin: 30px auto;
+  display: inline-block;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  padding: 10px;
+}
+
+section {
+  padding: 30px 10%;
+  overflow: auto;
+}  
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+  padding: 10px;
+
+}
+.hlavicka {
+  padding: 20px;
+  background-color: #928490;
+  border-bottom: 5px solid #F3E8EB;
+}
+
+.menu {
+  display: inline-block;
+  text-align: center;
+  font-size: 25px;
+  padding: 0;
+  
+}
+
+.menu ul {
+  padding: 18px;
+}
+
+.menu li {
+  display: inline-block;
+  padding: 5px;
+}
+
+.menu a {
+  color: #433E49;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.menu a:hover {
+  color: #DBC1AD;
+  background-color: #F3E8EB;
+  text-decoration: underline;
+  text-decoration-color: #DBC1AD;
+  border-radius: 5px;
+}
+
+div {
+  overflow: auto;
+  text-align: center;
+}
+
+.foto{
+  width: 200px;
+  border-radius: 50%;
+  margin: 0px 20px 20px 20px;
+}
+
+.vpravo {
+  float: right;
+}
+
+.vlevo {
+  float: left;
+}
+
+.galerie {
+  width: 40%;
+  border-radius: 5px;
+  margin: 0px 20px 20px 20px;
+}
+
+.tmava {
+  background-color: #DBC1AD;  
+}
+
+.svetla {
+  background-color: #F3E8EB;  
+}
+
+.paticka {
+  background-color: #F3E8EB;
+  font-size: smaller;
+  padding: 10px;
+  text-align: center;
+}
+
+
